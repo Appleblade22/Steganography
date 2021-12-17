@@ -1,4 +1,4 @@
-# Injection_into_Image_Files
+# Injection into Image Files
 
 Inject Images and Messages into Image file and send it to your friends
 
